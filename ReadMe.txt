@@ -1,0 +1,1 @@
+Reports, donations and notifications based on burndown rate not ready yet.
