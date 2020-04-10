@@ -1,4 +1,4 @@
-All done except suggestions, the donation is done automatically.
+All done except donation suggestions, the donation is done automatically.
 To you can changhe local PC date to play with dates.
 I considered that you can eat or donate an expired item. Maybe it can be donated as animal food and you can eat whatever you want.
 I tried to keep it as loosely coupled as possible, and to make functions as single-purpose as possible. But always due to complications the classes start to get heavy and splitting them is nearly impossible. I will try to improve for the future!
